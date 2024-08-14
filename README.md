@@ -19,19 +19,15 @@
 
 ###
 
+<img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdlbjUxamVqemxxdXdpd3MxOWgwamtwNWNrcmkzdTNqb3B1MzFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzfJSTepKi5vW/giphy.webp"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=glendamara.dasilvapereira&color=D14836&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="www.linkedin.com/in/ glenda-mara-a76521267" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=glenda%20mara&color=0077B5&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdlbjUxamVqemxxdXdpd3MxOWgwamtwNWNrcmkzdTNqb3B1MzFuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzfJSTepKi5vW/giphy.webp"  />
-
-###
-
-<br clear="both">
 
 ###
