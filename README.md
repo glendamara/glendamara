@@ -32,7 +32,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/glendamara/glendamara/output/snake.svg" alt="Snake animation" />
-
-###
