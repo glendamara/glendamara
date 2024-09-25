@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVqbjl3YmVkNmdyYThmdHdiaXJmY2V2NHpjY3Z5Mm10YmNxNXVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wh8oHlOihUY6or5fK/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="left">I code with:</h2>
 
 ###
@@ -41,6 +35,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVqbjl3YmVkNmdyYThmdHdiaXJmY2V2NHpjY3Z5Mm10YmNxNXVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wh8oHlOihUY6or5fK/giphy.gif"  />
 </div>
 
 ###
