@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning : Javascript and React.<br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. English language student, Intermediate lvl 9.</p>
+<p align="left">📚 I'm currently learning : Javascript and React.<br>🎯 Academic background : Undergrad Student in Computer Science at the State University of Ceará. English language student, Intermediate lvl 9.</p>
 
 ###
 
