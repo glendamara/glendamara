@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 My name is Glenda, and I'm a Front End Developer.</h1>
+<h1 align="left">Hey 👋 My name is Glenda, and I'm a FullStack Developer.</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning : Javascript and English (EF education.)<br>
+<p align="left">📚 I'm currently learning : Javascript, Python and English (EF education.)<br>
 🎯 Academic background : Undergrad Student in Computer Science at the State University of Ceará. English language student, Intermediate lvl 9.</p>
 
 ###
