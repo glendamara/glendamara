@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning : Javascript, Python and English (EF education.)<br>
-🎯 Academic background : Undergrad Student in Computer Science at the State University of Ceará. English language student, Intermediate lvl 9.</p>
+<p align="left">📚 I'm currently learning Python and Javascript.<br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. English language student, Intermediate lvl 9.</p>
 
 ###
 
@@ -27,14 +26,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  <img height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVqbjl3YmVkNmdyYThmdHdiaXJmY2V2NHpjY3Z5Mm10YmNxNXVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wh8oHlOihUY6or5fK/giphy.gif"  />
 </div>
 
 ###
