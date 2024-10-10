@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">20 years old, regular web development student.</p>
+<p align="left">20 years old, regular development student.</p>
 
 ###
 
@@ -33,12 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVqbjl3YmVkNmdyYThmdHdiaXJmY2V2NHpjY3Z5Mm10YmNxNXVtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wh8oHlOihUY6or5fK/giphy.gif"  />
 </div>
 
 ###
