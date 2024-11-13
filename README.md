@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Javascript, Front End, and on free times, Python. <br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. English language student, Intermediate lvl 9.</p>
+<p align="left">📚 I'm currently learning Javascript, Front End, and on free times, Python. <br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. English language student, Intermediate lvl 9, on English First London.</p>
 
 ###
 
