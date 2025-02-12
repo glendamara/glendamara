@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Typescript / Front End, and UI/UX. <br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. English language student, Intermediate lvl B1, on English First London.</p>
+<p align="left">📚 I'm currently learning Typescript and UI/UX. <br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. English language student, Intermediate lvl B1, on English First London.</p>
 
 ###
 
