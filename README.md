@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">21 years old, regular development student.</p>
+<p align="left">21 years old, web and software development student.</p>
 
 ###
 
