@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Typescript and UI/UX. <br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. English language student, Intermediate lvl B1, on English First London.</p>
+<p align="left">📚 I'm currently learning Typescript and UI/UX. <br>🎯 Academic background : Graduating in Computer Science at the State University of Ceará. 
+    English language student, Intermediate lvl B1, on English First London.
+    I participate in the GESAD laboratory, working as Front-end and UI/UX, in the development of the Mangoo App.    
+</p>
 
 ###
 
