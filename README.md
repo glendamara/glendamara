@@ -11,10 +11,10 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces de usuário int
 `JavaScript` `TypeScript` `Python`
 
 **Frameworks & Bibliotecas:**
-`React` `Node.js`
+`React` `Node.js` `Next.js`
 
 **Design & Ferramentas:**
-`Figma` `GIMP` `HTML5` `CSS3` `Git`
+`Figma` `GIMP` `HTML5` `CSS3` `Git` 
 
 ---
 
