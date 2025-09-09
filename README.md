@@ -11,7 +11,7 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces de usuário int
 `JavaScript` `TypeScript` `Python`
 
 **Frameworks & Bibliotecas:**
-`React` `Node.js` `Next.js`
+`React` `Node.js` `Next.js` `Tailwind`
 
 **Design & Ferramentas:**
 `Figma` `GIMP` `HTML5` `CSS3` `Git` 
@@ -27,5 +27,5 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces de usuário int
 
 ## Contato 📧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sua-glenda/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/glenda-mara-a76521267)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](glendamara.dasilvapereira@gmail.com)
