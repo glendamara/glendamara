@@ -1,8 +1,6 @@
 # Olá, sou a Glenda! 👋
 ### Desenvolvedora Front-end | Estudante de Ciência da Computação
 
-Sou uma desenvolvedora front-end apaixonada por criar interfaces de usuário intuitivas e eficientes. Atualmente, estou no último ano de Ciência da Computação na Universidade Estadual do Ceará, onde aprimoro minhas habilidades técnicas e de resolução de problemas.
-
 ---
 
 ## Minhas Habilidades 🛠️
