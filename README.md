@@ -27,5 +27,5 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces de usuário int
 
 ## Contato 📧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/glenda-mara-a76521267)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](glendamara.dasilvapereira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glenda-mara-a76521267)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glendamara.dasilvapereira@gmail.com)
