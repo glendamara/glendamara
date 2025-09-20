@@ -12,7 +12,7 @@
 `React` `Node.js` `Next.js` `Tailwind`
 
 **Design & Ferramentas:**
-`Figma` `GIMP` `HTML5` `CSS3` `Git` 
+`Figma` `GIMP` `HTML5` `CSS3` `Git` `Canva` `Picsart`
 
 ---
 
