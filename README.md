@@ -1,5 +1,5 @@
 # Olá, sou a Glenda! 👋
-### Desenvolvedora Front-end | Estudante de Ciência da Computação
+### Desenvolvedora FullStack | Estudante de Ciência da Computação
 
 ---
 
