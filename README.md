@@ -3,9 +3,7 @@
 
 ---
 
-## 💼 Experiência Profissional
-
-* **Desenvolvedora Web e Mobile ** | **Pinheiro Supermercados**
+**Desenvolvedora Web e Mobile** | **Pinheiro Supermercados**
   * Atuação no desenvolvimento e manutenção de soluções web completas, integrando sistemas de front-end e back-end para otimizar fluxos e entregar experiências digitais eficientes.
 
 ---
